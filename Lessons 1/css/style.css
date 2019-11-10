@@ -1,0 +1,36 @@
+body {
+  margin: 0 auto;
+  width: 70%;
+}
+
+/*H1 = H6*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: sans-serif;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+/*figcaption*/
+figcaption, span {
+  font-style: italic;
+}
+
+/*H1 size*/
+h1 {
+  font-size: 32px;
+}
+
+figure {
+  float:right;
+  margin: 7px 0 7px 7px;
+}
+
+table, th, td{
+  border: 1px solid black;
+}
+
+/*.block {
+  float: left;
+  background: #333;
+}
+*/
